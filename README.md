@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/IBWqPecZrSf2QyElGU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IBWqPecZrSf2QyElGU">via GIPHY</a></p>
+![giphy](https://github.com/xxangelmamxx/CodePath---iOS-Prework/assets/87739484/74e2d730-659f-4563-bd45-0ec6f67d5f1b)
 
 GIF created with GIPHY
 
