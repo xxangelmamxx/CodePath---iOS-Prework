@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/IBWqPecZrSf2QyElGU" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IBWqPecZrSf2QyElGU">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/IBWqPecZrSf2QyElGU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IBWqPecZrSf2QyElGU">via GIPHY</a></p>
 
 GIF created with GIPHY
 
