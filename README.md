@@ -23,6 +23,20 @@ Here's a walkthrough of implemented user stories:
 GIF created with GIPHY
 
 ## App Brainstorming (Step 4)
+Instagram:
+ - aesthetics of the UX/UI
+ - inbuilt camera
+ - unique user domains make it easier to find people
+
+tiktok:
+ - short videos
+ - ability to add music to videos
+ - face filters
+
+snapchat:
+ - inbuilt camera
+ - face filters
+ - temporary messages
 
 ## Notes
 
