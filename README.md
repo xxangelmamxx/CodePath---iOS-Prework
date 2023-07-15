@@ -1,11 +1,11 @@
 # CodePath---iOS-Prework
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Abha Mam
 
-**Name of your app** is an app that... [TODO] 
+Prework is an app that displays my name, university and aspired career 
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
@@ -18,14 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://giphy.com/embed/IBWqPecZrSf2QyElGU" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IBWqPecZrSf2QyElGU">via GIPHY</a></p>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with GIPHY
 
 ## App Brainstorming (Step 4)
 
