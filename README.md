@@ -26,11 +26,11 @@ GIF created with GIPHY
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't really run into any issues with the basic requirement for the app, but I couldn't figure out how to invert color for the labels to create a contrast in order to be able to see it better.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Abha Mam
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
